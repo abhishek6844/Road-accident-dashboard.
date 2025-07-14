@@ -10,7 +10,7 @@ Duration: 7 Days
 Tool Used: Microsoft Excel (Power Query, Pivot Tables, Slicers, Calculated Items)
 
 💡 What I Did:
-Data Loading & Cleaning
+*Data Loading & Cleaning*
 
 Imported accident data (3.6+ lakh rows)
 
@@ -18,13 +18,13 @@ Fixed issues like “Fetal” → “Fatal”, removed blanks
 
 Extracted Year & Month for time-based analysis
 
-Data Transformation
+*Data Transformation*
 
 Grouped vehicle types using calculated items
 
 Created KPIs like Fatal %, Serious %, etc.
 
-Visualization & Dashboard Design
+*Visualization & Dashboard Design*
 
 Used Donut, Line, Bar, Tree Map Charts
 
@@ -41,7 +41,7 @@ Data Modeling & KPI Development
 
 Analytical Thinking & Data Storytelling
 
-🔍 Key Insights:
+🔍 *Key Insights*:
 Cars caused ~80% of casualties
 
 Urban areas had higher accident rates
