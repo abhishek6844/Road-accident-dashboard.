@@ -1,54 +1,147 @@
-🚦 Road Accident Analysis Dashboard (Excel)
-Transforming 3.6+ lakh rows of real-world road accident data into an interactive Excel dashboard to uncover patterns in accident severity, vehicle involvement, and road conditions.
+# Road Accident Analysis Dashboard (Excel)
 
-📌 Project Highlights
-Duration: 7 Days
+Applying Road Safety and Casualty Insights through Excel Dashboards: A Case Study on UK Accident Data.
 
-Tool Used: Microsoft Excel (Power Query, Pivot Tables, Slicers, Calculated Items)
+This project is a testament to the power of Excel in transforming raw datasets into meaningful and actionable visual insights that support decision-making in traffic safety and infrastructure planning.
 
-💡 What I Did
-Data Loading & Cleaning
+---
 
-Imported large dataset (3.6+ lakh rows)
+## 📅 Project Duration:
 
-Corrected errors (e.g., “Fetal” → “Fatal”)
+**7 Days**
 
-Extracted Month & Year from accident dates
+---
 
-Data Transformation
+## 📊 Project Description:
 
-Grouped vehicle types using calculated items
+The project focuses on analyzing large-scale road accident data to uncover patterns in severity, vehicle involvement, time trends, and environmental conditions. Using Excel's capabilities, the dashboard brings clarity to accident trends and helps in understanding areas for public safety improvements.
 
-Defined key metrics like Fatal %, Serious %, etc.
+---
 
-Visualization & Dashboard Design
+## 💡 Methodology:
 
-Used Donut, Line, Bar, Tree Map Charts
+### 1. Data Loading
 
-Built a dark-themed dashboard with slicers, icons, and filter panels
+**Tool Used:** Microsoft Excel
 
-Focused on clarity, usability, and storytelling
+* Imported **3.6+ lakh rows** of accident data.
+* Ensured all data types and headers were properly formatted.
+* Retained a raw backup for reference.
 
-🔧 Tools & Skills
-Microsoft Excel
+**Outcome:** Solid foundation for reliable analysis.
 
-Power Query, Pivot Tables, Calculated Items
+---
 
-Dashboard Design & Formatting
+### 2. Data Cleaning
 
-KPI Development & Data Modeling
+**Process:**
 
-Data Storytelling & Analytical Thinking
+* Replaced incorrect labels (e.g., "Fetal" → **"Fatal"**).
+* Removed or corrected blank and invalid entries.
+* Used functions like `TEXT()`, `ISBLANK()`, and `IF()`.
 
-🔍 Key Insights
-Cars accounted for ~80% of total casualties
+**Outcome:** Clean, analysis-ready dataset.
 
-Urban areas reported higher accident rates
+---
 
-Most incidents happened in daylight on dry, single carriageway roads
+### 3. Data Transformation
 
-🖥️ Dashboard Preview: Click here to view
+**Tool Used:** Excel formulas & Calculated Items
 
-🙋‍♂️ Author: Abhishek Nangare
-📧 abhisheknangare4444@gmail.com
-🔗 LinkedIn Profile
+* Extracted **Month and Year** from accident date.
+* Grouped vehicle types using **Calculated Items** in Pivot Table.
+
+  * e.g., **Cars = Car + Taxi / Private Hire Car**
+* Created additional KPIs using formulas.
+
+**Outcome:** Structured, meaningful data categories.
+
+---
+
+### 4. KPI Definition
+
+**Focus Areas:**
+
+* **Fatal, Serious, and Slight Casualty %**
+* **Casualties by Vehicle Type** (Car, Van, Bus, Bike, Others)
+* **Urban vs Rural Split**
+* **Casualties by Road Type, Surface, Light Conditions**
+* **Monthly Casualty Trend** (2021 vs 2022)
+
+**Outcome:** Clear and targeted performance indicators.
+
+---
+
+### 5. Data Visualization & Dashboard Design
+
+**Tools Used:** Excel (Pivot Tables, Charts, Slicers, Icons)
+
+* **Donut Charts** for severity breakdown
+* **Line Chart** for Monthly Trends
+* **Tree Map** for Road Surface Conditions
+* **Bar Charts** for Road Type
+* **Slicers** for interactivity
+
+**Design Approach:**
+
+* Custom dark theme (#222B35 background)
+* Consistent formatting, icons, and layout
+* User-focused visuals with filter panel
+
+**Outcome:** Interactive, user-friendly dashboard
+
+🖥️ **Dashboard Preview:** [Click here to view](https://github.com/abhishek6844/Road-accident-dashboard./blob/main/Final%20Dashboard%20.png)
+
+---
+
+## 👉 Key Takeaways:
+
+* Built **calculated KPIs** using PivotTables
+* Mastered **slicers, filters**, and dynamic dashboard layout
+* Grouped and analyzed data using **Power features** in Excel
+* Transformed raw government data into **decision-ready insights**
+
+---
+
+## 🔧 Tools Used:
+
+* **Microsoft Excel**
+* **Pivot Tables & Calculated Items**
+* **Power Query** (for transformation)
+* **Slicers, Shapes & Icons**
+* **Custom Chart Styling**
+
+---
+
+## 🌟 Skills Demonstrated:
+
+`Data Cleaning` • `ETL (Power Query)` • `Data Modeling` • `KPI Design` • `Dashboard Visualization` • `Analytical Thinking`
+
+---
+
+## 🔍 Insights Discovered:
+
+* **Cars** contributed to \~**80%** of casualties
+* **Urban areas** showed higher accident rates
+* Most incidents occurred in **daylight** on **dry, single carriageway roads**
+
+---
+
+## 🏛️ Conclusion:
+
+This project shows how Excel, when used beyond the basics, becomes a powerful tool for real-world data analysis. The dashboard not only presents facts but tells a story about road safety that can support better planning and policy-making.
+
+---
+
+## 🚀 Looking Ahead:
+
+I look forward to using these skills in future data projects and continuing to turn data into impactful insights.
+
+Thanks for visiting this project!
+
+---
+
+**Author**
+**Abhishek Nangare**
+📧 **[abhisheknangare4444@gmail.com](mailto:abhisheknangare4444@gmail.com)**
+🔗 [**LinkedIn Profile**](https://www.linkedin.com)
