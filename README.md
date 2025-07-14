@@ -1,4 +1,5 @@
 🚦 Road Accident Analysis Dashboard (Excel)
+
 Transforming 3.6+ lakh rows of real-world road accident data into an interactive dashboard using Microsoft Excel.
 
 This project demonstrates how Excel can drive insights in public safety by analyzing accident severity, vehicle involvement, road conditions, and time trends.
@@ -47,7 +48,7 @@ Urban areas had higher accident rates
 
 Most incidents occurred on dry, single carriageways during daylight
 
-🖥️ Dashboard Preview: Click here to view
+🖥️ Dashboard Preview: [Click here to view](https://github.com/abhishek6844/Road-accident-dashboard./blob/main/Final%20Dashboard%20.png)
 
 🙋‍♂️ Author: Abhishek Nangare
 📧 abhisheknangare4444@gmail.com
