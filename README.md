@@ -92,7 +92,7 @@ User-focused visuals with filter panel
 
 Outcome: Interactive, user-friendly dashboard
 
-🖥️ Dashboard Preview: https://github.com/abhishek6844/Road-accident-dashboard./commit/0aee52e4bc0b932386f62442613089b4d078720e
+🖥️ Dashboard Preview: (https://github.com/abhishek6844/Road-accident-dashboard./blob/main/Final%20Dashboard%20.png)
 
 👉 Key Takeaways:
 
