@@ -10,6 +10,7 @@ Duration: 7 Days
 Tool Used: Microsoft Excel (Power Query, Pivot Tables, Slicers, Calculated Items)
 
 💡 What I Did:
+
 *Data Loading & Cleaning*
 
 Imported accident data (3.6+ lakh rows)
