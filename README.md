@@ -47,7 +47,7 @@ Urban areas reported higher accident rates
 
 Most incidents happened in daylight on dry, single carriageway roads
 
-🖥️ Dashboard Preview: [Click here to view](https://github.com/abhishek6844/Road-accident-dashboard./blob/main/Final%20Dashboard%20.png)
+🖥️ Dashboard Preview: Click here to view
 
 🙋‍♂️ Author: Abhishek Nangare
 📧 abhisheknangare4444@gmail.com
