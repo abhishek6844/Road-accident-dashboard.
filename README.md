@@ -6,12 +6,6 @@ This project is a testament to the power of Excel in transforming raw datasets i
 
 ---
 
-## 📅 Project Duration:
-
-**7 Days**
-
----
-
 ## 📊 Project Description:
 
 The project focuses on analyzing large-scale road accident data to uncover patterns in severity, vehicle involvement, time trends, and environmental conditions. Using Excel's capabilities, the dashboard brings clarity to accident trends and helps in understanding areas for public safety improvements.
@@ -83,12 +77,7 @@ The project focuses on analyzing large-scale road accident data to uncover patte
 * **Slicers** for interactivity
 
 **Design Approach:**
-
-* Custom dark theme (#222B35 background)
-* Consistent formatting, icons, and layout
-* User-focused visuals with filter panel
-
-**Outcome:** Interactive, user-friendly dashboard
+Interactive, user-friendly dashboard
 
 🖥️ **Dashboard Preview:** [Click here to view](https://github.com/abhishek6844/Road-accident-dashboard./blob/main/Final%20Dashboard%20.png)
 
@@ -132,10 +121,6 @@ The project focuses on analyzing large-scale road accident data to uncover patte
 This project shows how Excel, when used beyond the basics, becomes a powerful tool for real-world data analysis. The dashboard not only presents facts but tells a story about road safety that can support better planning and policy-making.
 
 ---
-
-## 🚀 Looking Ahead:
-
-I look forward to using these skills in future data projects and continuing to turn data into impactful insights.
 
 Thanks for visiting this project!
 
